@@ -1,1 +1,1 @@
-[image](notreallyalink.png)
+[image](notreallyalink)
